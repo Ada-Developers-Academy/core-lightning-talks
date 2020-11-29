@@ -76,5 +76,3 @@ Present after Intro to Object-Oriented Programming:
 - Define Interface pattern
 - Define Decorator pattern
 - Define Abstract class
-
-## Submit

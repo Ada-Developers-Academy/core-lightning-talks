@@ -70,5 +70,3 @@ Present after Building an API in Flask:
 - Describe how Site Maps and Wireframes inform web development
 - Define SVGs
 - Define SEO and meta tags
-
-## Submit

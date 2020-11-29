@@ -53,5 +53,3 @@ Describe how to deploy a static site using GitHub pages
 Define functional programming
 Define code coverage tools
 Describe how code coverage tools increase the quality of software
-
-## Submit
