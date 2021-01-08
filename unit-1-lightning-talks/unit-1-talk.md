@@ -47,6 +47,8 @@ Some topics can only be researched after a certain topic is taught.
 
 Present any time during Unit 1:
 
+- Keyword Arguments in functions
+- Constant variables
 - Define List comprehensions in Python
 - Define tuples and sets in Python
 - Define slicing in Python
