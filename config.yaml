@@ -30,6 +30,10 @@ Standards:
       - success criteria
     ContentFiles:
       -
+        Type: Instructor
+        UID: 1rV9Y7
+        Path: /unit-1-lightning-talks/unit-1-talk.instructor.md
+      -
         Type: Lesson
         UID: 9ba86d17b5841d8f34757a69cbb3c9d3
         Path: /unit-1-lightning-talks/unit-1-talk.md
