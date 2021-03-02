@@ -37,6 +37,12 @@ Finally, before you submit your presentation:
 - Make it personal, fun, and weird
 - Be yourself
 
+For inspiration, here are some ways to frame your presentation:
+
+- If I needed to convince my cohortmates that this is worth doing more research on, what would I say?
+- If I wanted to learn about this enough that I could talk to another programmer about this for 10 minutes, what would I say?
+- If I thought this was the only opportunity for me and my cohortmates to hear about this topic before I did more research, what would I want to know?
+
 ### Timing
 
 Presentations will happen on a rolling basis, refer to your class schedule for these presentation dates.
@@ -45,36 +51,28 @@ Some topics can only be researched after a certain topic is taught.
 
 ## Topics
 
-Present any time during Unit 1:
-
-- Keyword Arguments in functions
-- Constant variables
-- Define List comprehensions in Python
-- Define tuples and sets in Python
-- Define slicing in Python
-- Define ternary operator
-- Define short-circuiting in Python
-- Define DRY (Don't Repeat Yourself)
-- Define YAGNI (You aren't gonna need it)
-- Define assembly language
-- Define immutability
-- Define Command-query separation
-- Define Regular Expressions
-- Describe common matchers and patterns used in regular expressions
-- Compare programming languages between compiled vs. interpreted
-- Compare programming languages between dynamic typing vs. static typing
-- Describe how vim is used in command line
-- Describe how grep is used in command line
-- Describe how markdown is used to describe text
-- Define XML, compare XML and JSON
-- Describe how to read and write from any file in Python
-- Define CSV, compare CSV with other kinds of persistent data storage
-
-Present after Intro to Object-Oriented Programming:
-
-- Define static methods
-- Define SOLID principles
-- Define Factory method pattern
-- Define Interface pattern
-- Define Decorator pattern
-- Define Abstract class
+1. Constant variables
+1. Define List comprehensions in Python
+1. Define tuples and sets in Python
+1. Define slicing in Python
+1. Define ternary operator
+1. Define short-circuiting in Python
+1. Define DRY (Don't Repeat Yourself)
+1. Define YAGNI (You aren't gonna need it)
+1. Define assembly language
+1. Define Command-query separation
+1. Define Regular Expressions and how to use it to find a valid email address
+1. Describe common matchers and patterns used in regular expressions
+1. Compare programming languages between compiled vs. interpreted
+1. Compare programming languages between dynamic typing vs. static typing
+1. Describe how vim is used in command line
+1. Describe how grep is used in command line
+1. Describe how markdown is used to describe text
+1. Define XML, compare XML and JSON
+1. Describe how to read and write from any file in Python
+1. Define CSV, compare CSV with other kinds of persistent data storage
+1. Define SOLID principles
+1. Define Factory method pattern
+1. Define Interface pattern
+1. Define Decorator pattern
+1. Define Abstract class

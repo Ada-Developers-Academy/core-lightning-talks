@@ -45,28 +45,29 @@ Some topics can only be researched after a certain topic is taught.
 
 ## Topics
 
-Present any time during Unit 2:
-
-- Define MVC Pattern
-- Define Encapsulation
-- Define non-relational database
-- Define wifi
-- Define Internet browsers
-- Define Internet cabling and ISP
-- Define modem and browser, compare modem and browser
-- Describe the four layers of internet: Application, transport, network, link
-- Define web servers and packets
-- Define IP Addresses (IPv4)
-- Define bandwidth
-- Define firewalls
-- Define DNS
-
-Present after Building an API in Flask:
-
-- Describe how to use views/templates in Flasks
-- Define principles of web design: Usability, readability, accessibility
-- Define what a Site Map is
-- Define what Wireframes are
-- Describe how Site Maps and Wireframes inform web development
-- Define SVGs
-- Define SEO and meta tags
+1. Define Refactoring and "Clean Code"
+1. Define MVC Pattern
+1. Define Encapsulation
+1. Define non-relational database
+1. Define database transaction
+1. Define database trigger
+1. Define wifi
+1. Define Internet browsers
+1. Define Internet cabling and ISP
+1. Define modem and browser, compare modem and browser
+1. Describe the four layers of internet: Application, transport, network, link
+1. Define web servers and packets
+1. Define IP Addresses (IPv4)
+1. Define bandwidth
+1. Define firewalls
+1. Define DNS
+1. Define shell scripting
+1. Define UML
+1. Define Sequence Diagrams
+1. Describe how to use views/templates in Flasks
+1. Define principles of web design: Usability, readability, accessibility
+1. Define what a Site Map is
+1. Define what Wireframes are
+1. Describe how Site Maps and Wireframes inform web development
+1. Define SVGs
+1. Define SEO and meta tags

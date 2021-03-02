@@ -7,6 +7,10 @@ Standards:
       - success criteria
     ContentFiles:
       -
+        Type: Instructor
+        UID: H470UP
+        Path: /intro-to-lightning-talks/intro-to-lightning-talks.instructor.md
+      -
         Type: Lesson
         UID: 72afe16ca4f552e0a3de82224e7593fe
         Path: /intro-to-lightning-talks/intro-to-lightning-talks.md
@@ -40,6 +44,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
+      -
+        Type: Instructor
+        UID: W0QDug
+        Path: /unit-2-lightning-talks/unit-2-talk.instructor.md
       -
         Type: Lesson
         UID: 9fa74d7cb684e4d9078818ad56f2c30d
