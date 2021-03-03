@@ -62,6 +62,7 @@ Some topics can only be researched after a certain topic is taught.
 1. Define firewalls
 1. Define DNS
 1. Define shell scripting
+1. Define environment variables and .env
 1. Define UML
 1. Define Sequence Diagrams
 1. Describe how to use views/templates in Flasks

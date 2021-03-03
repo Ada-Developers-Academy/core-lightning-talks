@@ -25,6 +25,7 @@ These are in "priority" order (as in, "Define MVC Pattern" is more important to 
 1. Define firewalls
 1. Define DNS
 1. Define shell scripting
+1. Define environment variables and .env
 1. Define UML
 1. Define Sequence Diagrams
 
