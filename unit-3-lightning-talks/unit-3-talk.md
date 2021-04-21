@@ -47,9 +47,12 @@ Some topics can only be researched after a certain topic is taught.
 
 Present any time during Unit 3:
 
-Define what the subject of "Information risk and security management" is
-Define what the subject of "threats, attacks, exploits, and vulnerabilities" is
-Describe how to deploy a static site using GitHub pages
-Define functional programming
-Define code coverage tools
-Describe how code coverage tools increase the quality of software
+- Define "Red, Green, Refactor"
+- Define and compare ASCII and Unicode
+- Define hexadecimal
+- Define "Information risk and security management"
+- Define threats, attacks, exploits, and vulnerabilities
+- Describe how to deploy a static site using GitHub pages
+- Define functional programming
+- Define code coverage tools
+- Describe how code coverage tools increase the quality of software
