@@ -47,12 +47,17 @@ Some topics can only be researched after a certain topic is taught.
 
 Present any time during Unit 3:
 
+- Define hexadecimal and hexadecimal colors for web
+- Describe how to deploy a static site using GitHub pages, and describe [surge.sh](https://surge.sh/)
+- JavaScript: Describe spread syntax
+- JavaScript: Describe rest parameter syntax
+- JavaScript: Describe destructuring arrays and objects
+- JavaScript: Describe closures
 - Define "Red, Green, Refactor"
-- Define and compare ASCII and Unicode
-- Define hexadecimal
-- Define "Information risk and security management"
+- What is Kubernetes? What problems does it solve?
+- What is Docker?
 - Define threats, attacks, exploits, and vulnerabilities
-- Describe how to deploy a static site using GitHub pages
 - Define functional programming
-- Define code coverage tools
-- Describe how code coverage tools increase the quality of software
+- Define code coverage and code coverage tools
+- Define and compare ASCII and Unicode
+-
