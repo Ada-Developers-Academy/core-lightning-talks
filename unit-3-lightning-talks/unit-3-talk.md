@@ -67,7 +67,7 @@ Some topics can only be researched after a certain topic is taught.
 Present any time during Unit 3:
 
 - Define hexadecimal and hexadecimal colors for web
-- Summarize "Usage share of web browsers" over time and how it affects web development
+- Summarize "Usage share of web browsers" over time and "browser engine monoculture"
 - JavaScript: Describe `for` loops
 - JavaScript: Describe spread syntax
 - JavaScript: Describe rest parameter syntax
