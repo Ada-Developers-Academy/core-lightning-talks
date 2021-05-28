@@ -15,12 +15,31 @@ Requirements about your presentation:
 - Video and audio are allowed, but must fit within the time limit
 - Props and costumes are allowed
 
-In your presentation, please cover the following topics if they're relevant:
+### Topics
+
+In your presentation, please cover the following topics.
+
+If the topic is about code:
 
 - Definition of the topic
 - Examples
 - Syntax
 - When would we use this?
+
+If the topic is about a general technology:
+
+- Definition or description of the topic
+- What problems does it solve?
+- How does this fit into application development?
+- Example applications
+
+If the topic is about something else:
+
+- Definition
+- Examples
+- When would we use this, or when is this relevant?
+
+### Submit
 
 Finally, before you submit your presentation:
 
@@ -48,16 +67,26 @@ Some topics can only be researched after a certain topic is taught.
 Present any time during Unit 3:
 
 - Define hexadecimal and hexadecimal colors for web
-- Describe how to deploy a static site using GitHub pages, and describe [surge.sh](https://surge.sh/)
+- Summarize "Usage share of web browsers" over time and how it affects web development
+- JavaScript: Describe `for` loops
 - JavaScript: Describe spread syntax
 - JavaScript: Describe rest parameter syntax
 - JavaScript: Describe destructuring arrays and objects
+- JavaScript: Define hoisting and `var`
 - JavaScript: Describe closures
-- Define "Red, Green, Refactor"
-- What is Kubernetes? What problems does it solve?
-- What is Docker?
+- Describe static site deployment using GitHub pages and using [surge.sh](https://surge.sh/)
+- Describe continuous integration, continuous deployment, and Travis CI
+- Describe Node.js and `npm`
+- Describe Babel, UglifyJS, and Webpack
+- Describe JQuery, and describe SCSS
+- Describe creating an API with Express.js
+- Describe static type checking and TypeScript
+- Describe Bootstrap (the front-end toolkit)
+- Describe Kubernetes
+- Describe Docker
 - Define threats, attacks, exploits, and vulnerabilities
-- Define functional programming
-- Define code coverage and code coverage tools
+- Define code coverage, code coverage tools, and linters
 - Define and compare ASCII and Unicode
--
+- Define functional programming, and compare it to imperative programming
+- Describe microservices architecture
+- Describe linked lists
