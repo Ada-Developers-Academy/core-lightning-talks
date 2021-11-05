@@ -77,16 +77,16 @@ Present any time during Unit 3:
 - Describe Node.js and `npm`
 - Describe Babel, UglifyJS, and Webpack
 - Describe JQuery, and describe SCSS
+- BEM (CSS selector styling)
 - Describe creating an API with Express.js
 - Describe static type checking and TypeScript
 - Describe Bootstrap (the front-end toolkit)
 - Describe Kubernetes
 - Describe Docker
+- NoSQL databases (Google Firebase and MongoDB)
 - Define threats, attacks, exploits, and vulnerabilities
 - Define code coverage, code coverage tools, and linters
 - Define and compare ASCII and Unicode
 - Define functional programming, and compare it to imperative programming
 - Describe microservices architecture
 - Describe linked lists
-- BEM (CSS selector styling)
-- NoSQL databases (Google Firebase and MongoDB)
