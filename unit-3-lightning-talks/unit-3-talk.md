@@ -71,9 +71,7 @@ Present any time during Unit 3:
 - JavaScript: Describe `for` loops
 - JavaScript: Describe spread syntax
 - JavaScript: Describe rest parameter syntax
-- JavaScript: Describe destructuring arrays and objects
 - JavaScript: Define hoisting and `var`
-- JavaScript: Describe closures
 - Describe static site deployment using GitHub pages and using [surge.sh](https://surge.sh/)
 - Describe continuous integration, continuous deployment, and Travis CI
 - Describe Node.js and `npm`
@@ -90,3 +88,5 @@ Present any time during Unit 3:
 - Define functional programming, and compare it to imperative programming
 - Describe microservices architecture
 - Describe linked lists
+- BEM (CSS selector styling)
+- NoSQL databases (Google Firebase and MongoDB)
