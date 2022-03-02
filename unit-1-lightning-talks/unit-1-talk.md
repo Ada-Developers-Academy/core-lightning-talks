@@ -49,39 +49,6 @@ Presentations will happen on a rolling basis, refer to your class schedule for t
 
 Some topics can only be researched after a certain topic is taught.
 
-## Topics
-
-1. Constant variables
-1. Define list, set, and dictionary comprehensions in Python
-1. Define slicing in Python
-1. Define ternary operator
-1. Define short-circuiting in Python
-1. Define DRY (Don't Repeat Yourself)
-1. Define YAGNI (You aren't gonna need it)
-1. Define Python named parameters vs. positional parameters
-1. Define Python *args and **kwargs
-1. Define Python default parameters (and the danger of mutables)
-1. Define Python docstrings
-1. Describe the dangers of using floating point numbers
-1. Define map in Python
-1. Define assembly language
-1. Define Command-query separation
-1. Define Regular Expressions and how to use it to find a valid email address
-1. Describe common matchers and patterns used in regular expressions
-1. Compare programming languages between compiled vs. interpreted
-1. Compare programming languages between dynamic typing vs. static typing
-1. Describe how vim is used in command line
-1. Describe how grep is used in command line
-1. Describe how markdown is used to describe text
-1. Describe what a README file is and how it is useful.
-1. Describe how to read and write from any file in Python
-1. Define CSV, compare CSV with other kinds of persistent data storage
-1. Define Abstract class and Interface
-1. Define Python dict subclasses: defaultdic & Counter
-1. Define zip & enumerate in Python
-1. Define Python lambdas and function references
-1. Define Type Hinting in Python
-
 ## Example Lightning Talk
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ed194fea-ccf5-48f8-b231-acea000d11ee&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
