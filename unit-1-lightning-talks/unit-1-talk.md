@@ -47,8 +47,6 @@ For inspiration, here are some ways to frame your presentation:
 
 Presentations will happen on a rolling basis, refer to your class schedule for these presentation dates.
 
-Some topics can only be researched after a certain topic is taught.
-
 ## Example Lightning Talk
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ed194fea-ccf5-48f8-b231-acea000d11ee&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
