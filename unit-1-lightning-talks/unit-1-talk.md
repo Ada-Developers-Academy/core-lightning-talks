@@ -47,36 +47,6 @@ For inspiration, here are some ways to frame your presentation:
 
 Presentations will happen on a rolling basis, refer to your class schedule for these presentation dates.
 
-Some topics can only be researched after a certain topic is taught.
-
-## Topics
-
-1. Constant variables
-1. Define List comprehensions in Python
-1. Define tuples and sets in Python
-1. Define slicing in Python
-1. Define ternary operator
-1. Define short-circuiting in Python
-1. Define DRY (Don't Repeat Yourself)
-1. Define YAGNI (You aren't gonna need it)
-1. Define assembly language
-1. Define Command-query separation
-1. Define Regular Expressions and how to use it to find a valid email address
-1. Describe common matchers and patterns used in regular expressions
-1. Compare programming languages between compiled vs. interpreted
-1. Compare programming languages between dynamic typing vs. static typing
-1. Describe how vim is used in command line
-1. Describe how grep is used in command line
-1. Describe how markdown is used to describe text
-1. Define XML, compare XML and JSON
-1. Describe how to read and write from any file in Python
-1. Define CSV, compare CSV with other kinds of persistent data storage
-1. Define SOLID principles
-1. Define Factory method pattern
-1. Define Interface pattern
-1. Define Decorator pattern
-1. Define Abstract class
-
 ## Example Lightning Talk
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ed194fea-ccf5-48f8-b231-acea000d11ee&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
