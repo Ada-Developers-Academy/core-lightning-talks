@@ -36,6 +36,7 @@ Your presentation should focus on one of these two topics:
 
 1. What brought you to Ada?
 2. An interest you have and its intersection with technology or software
+3. Whatever topic you want (We recommend #1 or #2 if you don't have a preference).
 
 Here are some example topics for interests and its intersection with technology or software:
 
