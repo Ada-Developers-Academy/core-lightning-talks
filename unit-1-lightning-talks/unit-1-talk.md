@@ -1,4 +1,4 @@
-# Unit 1 Talk
+# Technical Lightning Talks
 
 ## Goal
 
