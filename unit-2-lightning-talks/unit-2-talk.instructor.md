@@ -8,7 +8,7 @@ This google sheet should not be edited directly. Make a copy of the spreadsheet,
 
 For classes with 30 or fewer students, these topics are combined: 
 * Define Database Trigger
-* Define Database Transation
+* Define Database Transaction
 
 For classes with 29 or fewer students, these additional topics are combined:
 * Define Firewalls
