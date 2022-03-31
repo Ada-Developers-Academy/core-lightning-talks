@@ -10,7 +10,7 @@ For classes with 30 or fewer students, these topics are combined:
 * Define Database Trigger
 * Define Database Transation
 
-For classes with 29 or fewer students, these additional topics are combines:
+For classes with 29 or fewer students, these additional topics are combined:
 * Define Firewalls
 * Define VPN
 
