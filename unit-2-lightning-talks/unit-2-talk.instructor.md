@@ -1,6 +1,6 @@
 # Instructor: Unit 2 Talk
 
-Topics are listed in the order they should be presented. Topics beginning with **Describe how to use views/templates in Flask** must be presented after Flask is introduced.
+Topics are listed in the order they should be presented. The topics from **Describe how to use views/templates in Flask** and onward must be presented after Flask is introduced.
 
 Here is a [google sheet with the topics and a template for student sign-up](https://docs.google.com/spreadsheets/d/1tj064fnubhsAyaTRnMN_0vzRxQliA92TageXfS1nabA/edit?usp=sharing)
 
