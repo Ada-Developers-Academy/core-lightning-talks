@@ -38,9 +38,13 @@ Standards:
         UID: W0QDug
         Path: /unit-2-lightning-talks/unit-2-talk.instructor.md
       -
+        Type: Instructor
+        UID: a38c6f45-52bf-4ba1-a1f5-bf3a5c51c03b
+        Path: /unit-3-lightning-talks/unit-3-talk.instructor.md
+      -
         Type: Lesson
         UID: 9ba86d17b5841d8f34757a69cbb3c9d3
-        Path: /unit-1-lightning-talks/unit-1-talk.md
+        Path: /unit-1-lightning-talks/technical-lightning-talks.md
       -
         Type: Lesson
         UID: 2f0db7bfe571583ba88991e7e46a64c5
