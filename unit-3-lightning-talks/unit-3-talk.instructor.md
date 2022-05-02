@@ -6,17 +6,9 @@ Here is a [google sheet with the topics and a template for student sign-up](http
 
 This google sheet should not be edited directly. Make a copy of the spreadsheet, and rename the tabs with homeroom class names.
 
-For classes with 30 or fewer students, these topics are combined: 
-* Place Holder
-* Place Holder
-
-For classes with 29 or fewer students, these additional topics are combined:
-* Place Holder
-* Place Holder
-
-For classes with 28 or fewer students, these additional topics are combined:
-* Place Holder
-* Place Holder
+For classes with 28 or fewer students, these topics are combined:
+* Describe continuous integration, continuous deployment, and Travis CI
+* Explain Github Actions
 
 
 
