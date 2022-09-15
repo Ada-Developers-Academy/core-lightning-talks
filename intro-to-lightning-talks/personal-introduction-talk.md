@@ -54,3 +54,10 @@ Here are some example topics for interests and its intersection with technology 
 - Technologists who've inspired me
 
 Please use these examples to inspire your own topic!
+
+## Example Presentations
+
+We've linked recordings of lightning talks Ada staff have presented to cohorts in the past below. Feel free to check them out as examples of the format or to find inspiration! 
+
+- [Seattle Cohort 16](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d9d61f4-7943-4511-9c44-ad9401532bac&start=0) - Presentations start at 00:15 and end at 12:14
+- [Digital Cohort 18](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef8b487-f21f-420c-9c08-af0801695ba6&start=0) - Presentations start at 00:05 and end at 20:45
