@@ -1,7 +1,7 @@
 Standards:
   -
     Title: Intro To Lightning Talks
-    Description: Intro To Lightning Talks
+    Description: "Required: Intro To Lightning Talks"
     UID: 07b2a8b0860efe7dee9b9eb34b11b7be
     SuccessCriteria:
       - success criteria
