@@ -48,8 +48,8 @@ The short format helps presenters practice:
 
 At Ada, our lightning talks are:
 
-- No more than 5 minutes
-- Presentations over 5 minutes will be gently cut off
+- Short and concise - the exact length of presentations will be shared during the in-class intro session
+- Presentations that go over time will be gently cut off
 - Presentation slides are required (even if it is one slide)
 - Video and audio are allowed, but must fit within the time limit
 - Props and costumes are allowed

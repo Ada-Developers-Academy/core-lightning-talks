@@ -10,7 +10,7 @@ Your presentation will be about one of the topics listed below. Follow classroom
 
 Requirements about your presentation:
 
-- No more than 5 minutes (Presentations over 5 minutes will be gently cut off)
+- The duration of your presentation will be shared during the Introduction to Lightning Talks Session
 - Slides are required (even if it is one slide)
 - Video and audio are allowed, but must fit within the time limit
 - Props and costumes are allowed
@@ -20,7 +20,6 @@ Before you submit your presentation:
 - Include your name and pronouns in the first slide
 - Your presentation must be uploaded to the Internet so that instructors can view it
   - We recommend using Google Slides, and setting the sharing permissions to "Anyone on the internet with this link can view"
-- Submit your presentation below
 
 ### Tips
 
