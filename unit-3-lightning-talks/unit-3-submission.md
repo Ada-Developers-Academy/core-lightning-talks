@@ -9,7 +9,7 @@
 
 ##### !question
 
-Submit the slideshow containing your work on the Unit 3 lightning talk below. Before submitting, ensure that the presentation is available for instructors to view.
+Submit the slideshow containing your work on the Unit 3 lightning talk below. Before submitting, ensure that the presentation is available for instructors to view. If you are not scheduled to present during this unit, please enter "N/A".
 
 ##### !end-question
 
