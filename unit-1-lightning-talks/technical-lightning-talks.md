@@ -4,11 +4,11 @@
 
 Your goal is to create and deliver a lightning talk presentation on a given topic! You will be teaching a topic that extends our knowledge! Your audience will be your other cohortmates.
 
-## Requirements about the Presentation
+## Presentation Requirements
 
-Your presentation will be about one of the topics listed below. Follow classroom instructions to get your topic.
+Instructors will share in class or on Slack where to find your topic assignment.
 
-Requirements about your presentation:
+Presentation requirements:
 
 - No more than 5 minutes (Presentations over 5 minutes will be gently cut off)
 - Slides are required (even if it is one slide)
@@ -28,6 +28,7 @@ Finally, before you submit your presentation:
 - Your presentation must be uploaded to the Internet so that instructors can view it
   - We recommend using Google Slides, and setting the sharing permissions to "Anyone on the internet with this link can view"
 - Submit your presentation below
+  - There are pages to submit slides for each unit in Learn. If you are not scheduled to present during a particular unit, please enter "N/A" instead of a URL.
 
 ### Tips
 
